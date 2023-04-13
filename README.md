@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Phil-G-94
 - 👀 I’m interested in web development and software engineering 
-- 🌱 I'm currently working with vanilla JS before moving to specific libraries, frameworks (React/Vue.js) and other languages (C#, Python)  
+- 🌱 I'm currently working with vanilla JS and the React library
 - 👉 I'm keen to learn from and collaborate with other junior developers/engineers
 - ...if you don't know, now you know! 🐒
 
