@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Phil-G-94
-- 👀 I’m a junior JS developer looking for my first junior/entry-level role 
-- 🌱 Currently working through the React library
-- 👉 I'm keen to learn from and collaborate with other junior developers/engineers
+- 🏭 Currently building with:
+  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react)](https://skillicons.dev)
+
 - ...if you don't know, now you know! 🐒
 
 <!---
