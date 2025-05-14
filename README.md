@@ -2,7 +2,7 @@
 <br>
 🏭 Currently building with: 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,node,express,mongodb,postgresql)](https://skillicons.dev)
 
 <!---
 Phil-G-94/Phil-G-94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
